@@ -1,5 +1,5 @@
 import { NeuralNetwork } from '../../src/neural-network';
-import istanbulLinkerUtil = from '../istanbul-linker-util';
+import istanbulLinkerUtil  from '../istanbul-linker-util';
 
 describe('.toFunction()', () => {
   describe('sigmoid activation', () => {
